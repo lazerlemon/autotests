@@ -1,1 +1,1 @@
-# autotests
+# Repository for training
